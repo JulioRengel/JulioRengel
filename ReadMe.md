@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de front end.<br>
+Desenvolvedor em formação com foco em front-end e back-end. Apaixonado por criar experiências interativas e funcionais na web. Atualmente, estou aprendendo HTML5, CSS, MySQL, Python e Java, sempre em busca de novos desafios para expandir minhas habilidades e crescer profissionalmente.
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/julio-jesus-r-292280189) 
