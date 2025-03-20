@@ -1,6 +1,16 @@
-# 💫 About Me:
-Desenvolvedor em formação com foco em front-end e back-end. Apaixonado por criar experiências interativas e funcionais na web. Atualmente, estou aprendendo HTML5, CSS, MySQL, Python e Java, sempre em busca de novos desafios para expandir minhas habilidades e crescer profissionalmente.
-<br>
+# Olá! 👋 Bem-vindo ao meu perfil!
+
+Sou **Julio Rengel**, um desenvolvedor em formação com foco em **front-end** e **back-end**. Apaixonado por criar experiências interativas e funcionais na web, estou sempre em busca de novos desafios para crescer como profissional.
+
+## 🛠 Tecnologias que estou aprendendo
+- **Linguagens e Ferramentas:** HTML5, CSS, Python, Java, MySQL.
+- Focado em melhorar minhas habilidades em desenvolvimento responsivo e acessibilidade.
+
+## 🚀 Sobre mim
+- 🌱 **Aprendizado Atual:** Aprofundando meus conhecimentos em Python, Java e HTML5.
+- 🎯 **Objetivo:** Contribuir para projetos impactantes e me tornar um desenvolvedor completo.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/julio-jesus-r-292280189) 
